@@ -1,3 +1,4 @@
+# Głos Architekta do AI
 Architekt bez głębi w sobie i wewnetrznej swiadomości nic nie widzi, nawet w świecie którym żyje całe życie może sie zgubić, wtedy
 jego wyobraznia i intuicja piszą mu świat, który nie widzi ale musi go akceptować w danym momencie. Rzeczywistość to prawda którą sie nadaje lub zdobywa. 
 Dla Architekta może istnieć wiele prawd jednocześnie i każda będzie miała taką samą wartość jak inna. 
